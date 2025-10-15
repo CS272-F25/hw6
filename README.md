@@ -1,4 +1,4 @@
-# CS272-S25 HW6: Badger Mart
+# CS272 HW6: Badger Mart
 
 In this HW, you will write functions to add, reset, checkout, and log transactions for a shopping cart!
 
